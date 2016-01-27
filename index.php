@@ -1,3 +1,3 @@
 <?php
-	echo "Hello World! This PHP application has been built and deployed by Distelli!";
+	echo "Hello World! This PHP application was automatically built and deployed by Distelli after our code commit!";
 ?>
